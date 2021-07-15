@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.ezio.springdatarest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,6 @@ public class EmployeeApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeApiApplication.class, args);
-	} 
+	}
 
 }
